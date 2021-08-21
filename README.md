@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlaaEssamKamal
+- 🧐 I’m a frontEndDevoloper with 3 years of experience 
+- 💻 I’m currently wrok at accflexErp co.
+- ✨ The technologies i currently use : HTML, CSS, SASS, JavaScript, TypeScript, Angular, Ionic
+- 📫 How to reach me: alaa-essam5@hotmail.com
